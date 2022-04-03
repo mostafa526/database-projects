@@ -1,0 +1,42 @@
+C:\Users\Mazen\Desktop\openGLproj\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Mazen\Desktop\openGLproj\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Mazen\Desktop\openGLproj\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Mazen\Desktop\openGLproj\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Mazen\Desktop\openGLproj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.editMovies.resources
+C:\Users\Mazen\Desktop\openGLproj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Mazen\Desktop\openGLproj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mazen\Desktop\openGLproj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.searchMovieForm.resources
+C:\Users\Mazen\Desktop\openGLproj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\crystal DB.csproj.GenerateResource.Cache
+C:\Users\Mazen\Desktop\openGLproj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Mazen\Desktop\openGLproj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Mazen\Desktop\openGLproj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.searchMoviePrize.resources
+C:\Users\Mazen\Desktop\openGLproj\DBMS project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Mazen\Desktop\openGLproj\DBMS project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Mazen\Desktop\openGLproj\DBMS project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Mazen\Desktop\openGLproj\DBMS project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Mazen\Desktop\openGLproj\DBMS project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Mazen\Desktop\openGLproj\DBMS project\WindowsFormsApplication1\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Mazen\Desktop\openGLproj\DBMS project\WindowsFormsApplication1\obj\Debug\crystal DB.csprojResolveAssemblyReference.cache
+C:\Users\Mazen\Desktop\openGLproj\DBMS project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.editMovies.resources
+C:\Users\Mazen\Desktop\openGLproj\DBMS project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Mazen\Desktop\openGLproj\DBMS project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mazen\Desktop\openGLproj\DBMS project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.searchMovieForm.resources
+C:\Users\Mazen\Desktop\openGLproj\DBMS project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.searchMoviePrize.resources
+C:\Users\Mazen\Desktop\openGLproj\DBMS project\WindowsFormsApplication1\obj\Debug\crystal DB.csproj.GenerateResource.Cache
+D:\3RD Year\Second Term\DataBase\project\DBMS project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\3RD Year\Second Term\DataBase\project\DBMS project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\3RD Year\Second Term\DataBase\project\DBMS project\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\3RD Year\Second Term\DataBase\project\DBMS project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.CelebrityPrizes.resources
+D:\3RD Year\Second Term\DataBase\project\DBMS project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Control_Celebrity.resources
+D:\3RD Year\Second Term\DataBase\project\DBMS project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.controlMovies.resources
+D:\3RD Year\Second Term\DataBase\project\DBMS project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.displayMovies.resources
+D:\3RD Year\Second Term\DataBase\project\DBMS project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.editMovies.resources
+D:\3RD Year\Second Term\DataBase\project\DBMS project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\3RD Year\Second Term\DataBase\project\DBMS project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MoviesGetYear.resources
+D:\3RD Year\Second Term\DataBase\project\DBMS project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.moviesPrize.resources
+D:\3RD Year\Second Term\DataBase\project\DBMS project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\3RD Year\Second Term\DataBase\project\DBMS project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.searchMovieForm.resources
+D:\3RD Year\Second Term\DataBase\project\DBMS project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.searchMoviePrize.resources
+D:\3RD Year\Second Term\DataBase\project\DBMS project\WindowsFormsApplication1\obj\Debug\crystal DB.csproj.GenerateResource.Cache
+D:\3RD Year\Second Term\DataBase\project\DBMS project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\3RD Year\Second Term\DataBase\project\DBMS project\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
